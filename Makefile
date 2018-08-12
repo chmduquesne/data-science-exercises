@@ -1,5 +1,5 @@
 lab: venv
-	venv/bin/jupyter lab
+	cd notebooks; ../venv/bin/jupyter lab
 
 venv:
 	virtualenv  -p python3 venv

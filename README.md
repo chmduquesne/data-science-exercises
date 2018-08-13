@@ -1,5 +1,7 @@
-Notebooks I wrote to get familiar with some popular Data Science
-frameworks
+What is this
+------------
+A bunch of Notebooks I wrote to better master some popular Data Science
+frameworks.
 
 How to reproduce
 ----------------

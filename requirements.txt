@@ -6,3 +6,6 @@ seaborn
 ipywidgets
 pip_magic
 jupyterlab
+altair
+vega_datasets
+vega

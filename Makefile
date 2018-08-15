@@ -1,7 +1,7 @@
 lab: venv
 	cd notebooks; ../venv/bin/jupyter lab
 
-notebook:
+notebooks: venv
 	cd notebooks; ../venv/bin/jupyter notebook
 
 venv:

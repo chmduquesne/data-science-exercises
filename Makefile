@@ -1,8 +1,8 @@
+notebook: venv
+	cd notebooks; ../venv/bin/jupyter notebook
+
 lab: venv
 	cd notebooks; ../venv/bin/jupyter lab
-
-notebooks: venv
-	cd notebooks; ../venv/bin/jupyter notebook
 
 venv:
 	virtualenv  -p python3 venv

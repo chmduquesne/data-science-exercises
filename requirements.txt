@@ -9,3 +9,4 @@ jupyterlab
 altair
 vega_datasets
 vega
+quickviz
